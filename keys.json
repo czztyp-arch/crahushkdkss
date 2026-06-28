@@ -6,6 +6,12 @@
             "uses": 0,
             "last_used": null,
             "banned_hwids": []
+        },
+        {
+            "key": "&F$mOqUU^LpRt+bGQpaliSl_UAnu&ibr^5yTQKHx",
+            "created": "2026-06-28 19:41:21",
+            "duration": "5m",
+            "blocked": false
         }
     ]
 }
